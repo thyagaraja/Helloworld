@@ -6,7 +6,7 @@ public class Hello {
  
            System.out.println("Hello World ..."+sum);
             int j=5,sum;
-            sum=j+i
+            sum=j+i;
       
                 }
           }
